@@ -1,8 +1,8 @@
 cask "meridian" do
-  version "1.10.0"
-  sha256 "f07233ca6a45465e91f860ab1b13517455eae160513336b88a74a45c31af8a4e"
+  version "1.11.0"
+  sha256 "5d072a0e4d9f19661ef626f957b0afebf83d47d2be56ff7fd28d214d47200fac"
 
-  url "https://github.com/m-tse/Meridian/releases/download/v#{version}/TimeZones-#{version}.zip"
+  url "https://github.com/m-tse/Meridian/releases/download/v#{version}/Meridian-#{version}.zip"
   name "Meridian"
   desc "Lightweight macOS menu bar app for viewing multiple timezones at a glance"
   homepage "https://github.com/m-tse/Meridian"
